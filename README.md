@@ -8,3 +8,11 @@
 ![Metrics](https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian)
 
 </details>
+
+#### Dukung Saya
+```
+Bantu Support Lahh Biar Semangad Kerjain Project Nya Wkwk
+```
+* [`Telkomsel : 0813-2663-5396`](#) 
+* [`gopay : 0888-5960-825`](#) 
+* [`Dana : 0888-5960-825`](#) 
