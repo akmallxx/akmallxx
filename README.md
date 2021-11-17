@@ -13,8 +13,8 @@
 ```
 Makasih buat yg udah support saya👊
 ```
-* [`Telkomsel : 0813-2663-5396`](#) 
-* [`gopay : 0888-5960-825`](#) 
+* [`Telkomsel : 0813-2663-5396`](https://github.com/Dvnz99/Dvnz99/blob/master/README.md#dukung-saya) 
+* [`gopay : 0888-5960-825`](https://github.com/Dvnz99/Dvnz99/blob/master/README.md#dukung-saya) 
 * [`Dana : 0888-5960-825`](https://link.dana.id/qr/3wru4hg9) 
 
 #### Click Here To Meet Me
