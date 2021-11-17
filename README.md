@@ -11,7 +11,7 @@
 
 #### Dukung Saya
 ```
-Bantu Support Lahh Biar Semangad Kerjain Project Nya Wkwk
+Makasih buat yg udah support saya👊
 ```
 * [`Telkomsel : 0813-2663-5396`](#) 
 * [`gopay : 0888-5960-825`](#) 
