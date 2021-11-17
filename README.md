@@ -15,4 +15,7 @@ Makasih buat yg udah support saya👊
 ```
 * [`Telkomsel : 0813-2663-5396`](#) 
 * [`gopay : 0888-5960-825`](#) 
-* [`Dana : 0888-5960-825`](#) 
+* [`Dana : 0888-5960-825`](https://link.dana.id/qr/3wru4hg9) 
+
+#### Click Here To Meet Me
+* [`WhatsApp`](https://wa.me/qr/3BE3DUEDYQWFO1)
