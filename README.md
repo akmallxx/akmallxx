@@ -1,7 +1,7 @@
 <tap>
 <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDvnz99&count_bg=green&title_bg=%23555555&icon=probot.svg&icon_color=white&title=Daily+&+Total+Hit&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDvnz99&count_bg=green&title_bg=%23555555&icon=probot.svg&icon_color=white&title=Daily+And+Total+Hit&edge_flat=false"/></a>
 
 <p align="center">
   <a href="https://wa.me/628885960825"><img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Noob+Coder+From+Indonesia.;Status%2C+student.;Love+Money+and+Life.;Learn+Html+and+JavaScript.;Don't+bully+me%2C+I'll+be+sad+%3A(.;Thank+you+for+your+attention.;Click+here+to+chat+with+me." alt="Akmalz">
