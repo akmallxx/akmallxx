@@ -5,9 +5,10 @@
 </p>
 
 <div align="center">
+<a href="https://wa.me/qr/MJ5QGFNI7ATVG1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDvnz99&count_bg=green&title_bg=%23555555&icon=probot.svg&icon_color=white&title=Visitor&edge_flat=false"/></a>
 <img alt="Age" src="https://img.shields.io/badge/Age-15-blue.svg" />
-<br><a href="https://wa.me/qr/MJ5QGFNI7ATVG1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
 > **Dvnz**(akmalz) **status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
