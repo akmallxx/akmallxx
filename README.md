@@ -12,16 +12,16 @@
 </div>
 
 > My Status <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
-
+ >
 > Popular Repository <details><summary>Click Here</summary><a href="https://github.com/Dvnz99/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
 
 
 #### Support Me
 > Thank you for those who have supported me👊
- >
-* [`Telkomsel : 0813-2663-5396`](https://github.com/Dvnz99/Dvnz99/blob/master/README.md#dukung-saya) 
-* [`gopay : 0888-5960-825`](https://github.com/Dvnz99/Dvnz99/blob/master/README.md#dukung-saya) 
-* [`Dana : 0888-5960-825`](https://link.dana.id/qr/3wru4hg9) 
+
+> * [x] `Telkomsel : 0813-2663-5396`
+> * [x] `gopay : 0888-5960-825` 
+> * [x] `Dana : 0888-5960-825`
 
 <audio autoplay="autoplay" hidden="hidden" src="https://i.top4top.io/m_21278zw790.mp3"></audio>
 <p align="center">
