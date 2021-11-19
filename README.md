@@ -10,9 +10,9 @@
 <br><a href="https://wa.me/message/IZ5ZIVGIQL2NJ1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
-> **My Status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
+> **Dvnz**(akmalz) **status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
 
-> **Popular Repository** <details><summary>Click Here</summary><a href="https://github.com/Dvnz99/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
+> **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Dvnz99/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
 
 
 #### Support Me
