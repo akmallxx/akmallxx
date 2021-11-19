@@ -19,9 +19,9 @@
 #### Support Me
 > Thank you for those who have supported me👊
 
-> * [x] `Telkomsel : 0813-2663-5396`
-> * [x] `gopay : 0888-5960-825` 
-> * [x] `Dana : 0888-5960-825`
+* [x] `Telkomsel : 0813-2663-5396`
+* [x] `gopay : 0888-5960-825` 
+* [x] `Dana : 0888-5960-825`
 
 <audio autoplay="autoplay" hidden="hidden" src="https://i.top4top.io/m_21278zw790.mp3"></audio>
 <p align="center">
