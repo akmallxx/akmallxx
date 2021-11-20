@@ -1,7 +1,9 @@
 ## Hi lord, Welkom :wave:
 
-![Akmalz](https://github.com/dvnz99.png?size=5000)
+<img align="center" height="auto" src="https://i.waifu.pics/x7bS2nT.jpg"/>
 
+
+___
 #### Github Activity (Public Data)
 
 <p align="center">
@@ -20,6 +22,7 @@
 
 > **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Dvnz99/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
 
+___
 
 #### Support Me
 > Thank you for those who have supported me👊
@@ -33,3 +36,5 @@
 </p>
 <p align='center'>
     </p>
+
+___
