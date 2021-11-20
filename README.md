@@ -1,3 +1,5 @@
+## Hi lord, Welkom :wave:
+
 ![Akmalz](https://github.com/dvnz99.png?size=5000)
 
 #### Github Activity (Public Data)
@@ -7,7 +9,8 @@
 </p>
 
 <div align="center">
-<a href="https://wa.me/qr/MJ5QGFNI7ATVG1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/qr/MJ5QGFNI7ATVG1" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
+<a href="http://www.instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDvnz99&count_bg=green&title_bg=%23555555&icon=probot.svg&icon_color=white&title=Visitor&edge_flat=false"/></a>
 <img alt="Age" src="https://img.shields.io/badge/Age-15-blue.svg" />
