@@ -1,7 +1,6 @@
 ## Hi lord, Welkom :wave:
 
-<img align="center" height="auto" src="https://i.waifu.pics/x7bS2nT.jpg"/>
-
+<img align="center" height="auto" src="https://i.waifu.pics/_J9_Lfv.gif"/>
 
 ___
 #### Github Activity (Public Data)
