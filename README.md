@@ -17,8 +17,6 @@ ___
 <img alt="Age" src="https://img.shields.io/badge/Age-15-blue.svg" />
 </div>
 
-> **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
-
 > **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Dvnz99/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
 
 ___
@@ -37,6 +35,10 @@ ___
     </p>
 
 ___
+
+#### My Stats
+
+> **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
