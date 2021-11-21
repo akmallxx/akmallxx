@@ -1,5 +1,3 @@
-## Hi lord, Welkom :wave:
-
 <img align="center" height="auto" src="https://i.waifu.pics/_J9_Lfv.gif"/>
 
 <p align="center">
@@ -7,6 +5,9 @@
 </p>
 
 <div align="center">
+
+> _Hi :wave:, my real name is Akmal Oktavian<br>nice to meet you_ ~
+
 <a href="https://wa.me/qr/MJ5QGFNI7ATVG1" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <br>
