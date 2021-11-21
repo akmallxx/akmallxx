@@ -14,9 +14,11 @@
 <img alt="Age" src="https://img.shields.io/badge/Age-15-blue.svg" />
 </div>
 
+---
+
 > **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Dvnz99/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
 
-___
+---
 
 #### Support Me
 > Thank you for those who have supported me👊
@@ -31,7 +33,7 @@ ___
 <p align='center'>
     </p>
 
-___
+---
 
 #### My Stats
 
