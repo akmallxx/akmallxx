@@ -2,9 +2,6 @@
 
 <img align="center" height="auto" src="https://i.waifu.pics/_J9_Lfv.gif"/>
 
-___
-#### Github Activity (Public Data)
-
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Noob+Coder+From+Indonesia.;Status%2C+student.;Love+Money+and+Life.;Learn+CSS,+HTML,+and+JavaScript.;Don't+bully+me%2C+I'll+be+sad+%3A(.;Thank+you+for+your+attention." alt="Akmalz">
 </p>
