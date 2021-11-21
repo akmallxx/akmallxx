@@ -23,11 +23,6 @@ ___
 
 ___
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-___
-
 #### Support Me
 > Thank you for those who have supported me👊
 
@@ -40,3 +35,8 @@ ___
 </p>
 <p align='center'>
     </p>
+
+___
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
