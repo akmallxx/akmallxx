@@ -24,6 +24,8 @@
 
 > **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Dvnz99/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
 
+> **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
+
 ---
 
 <h2 align="center">Support Me</h2>
