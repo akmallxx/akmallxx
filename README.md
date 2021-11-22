@@ -1,5 +1,7 @@
 <img align="center" height="auto" src="https://i.waifu.pics/_J9_Lfv.gif"/>
 
+<h2 align="center">About Me</h2>
+
 <div align="center">
 
 > _Hi :wave:, my real name is Akmal Oktavian<br>nice to meet you_ ~
@@ -24,7 +26,8 @@
 
 ---
 
-#### Support Me
+<h2 align="center">Support Me</h2>
+
 > Thank you for those who have supported me👊
 
 * [x] `Telkomsel : 0813-2663-5396`
@@ -38,10 +41,9 @@
     </p>
 
 ---
-
-#### My Stats
-
-> **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Dvnz99?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
+<!--
+<h2 align="center">My Stats</h2>
+-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
