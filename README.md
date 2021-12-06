@@ -27,7 +27,7 @@
 
 > **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Akmall-236/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dvnz99&repo=wabot&theme=dark"></details>
 
-> [![**Personal Website**](https://akmalz.rf.gd)]
+> **Personal Website** <details><summary>Click Here</summary><a href="https://akmalz.rf.gd"></details>
 
 ---
 
