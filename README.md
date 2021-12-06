@@ -1,6 +1,7 @@
-<img align="center" height="auto" src="https://i.waifu.pics/_J9_Lfv.gif"/>
+<h1 align="center">About Me</h1>
 
-<h2 align="center">About Me</h2>
+<img align="center" height="auto" src="https://github.com/akmall-236.png?size=5000"/>
+<!-- ![mrfzvx12](https://github.com/mrfzvx12.png?size=5000) -->
 
 <div align="center">
 
