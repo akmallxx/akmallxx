@@ -25,7 +25,7 @@
 
 > **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Akmall-236?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
 
-> **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Akmall-236/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmall-236&repo=wabot&theme=dark"></details>
+> **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Akmall-236/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmall-236&repo=wabot&theme=auto"></details>
 
 ---
 
