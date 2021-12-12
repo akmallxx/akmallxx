@@ -27,8 +27,9 @@
 
 > **Popular repository** <details><summary>Click Here</summary><a href="https://github.com/Akmall-236/wabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmall-236&repo=wabot&theme=auto"></details>
 
-### Spotify Playing
+---
 
+<h2 align="center">Spotify Play</h2>
 <p align="center">
   <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify"></a>
 </p>
