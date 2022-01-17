@@ -35,8 +35,8 @@ biodata: [
    "status": "student",
    "birth": "23/10/2006",
    "address": "Indonesian - Yogyakarta"
-  ],
-  sosmed: [
+],
+sosmed: [
    "instagram": "https://instagram.com/akmall.xx",
    "whatsapp": "https://wa.me/628885960825",
    "telegram": "https://t.me/akmall403"
