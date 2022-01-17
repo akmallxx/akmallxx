@@ -23,6 +23,28 @@
 
 > **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Akmallxx?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
 
+---
+
+```json
+[
+  "biodata": {
+    "name": "Akmal Oktavian",
+    "birth": "23/10/2006"
+  },
+  "sosmed": {
+    "instagram": "https://instagram/akmall.xx",
+    "whatsapp": "https://wa.me/628885960825"
+  },
+  "support": {
+    "dana": "0888-5960-825",
+    "gopay": "0888-5960-825",
+    "smartfren": "0888-5960-825",
+    "telkomsel": "0813-2663-5396",
+    "tri": "0896-1267-8167"
+  },
+]
+```
+
 <!--
 <h2 align="center">My Stats</h2>
 -->
