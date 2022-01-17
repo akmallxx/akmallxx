@@ -30,18 +30,18 @@
 <h2 align="center">About Me</h2>
 
 ```js
-"biodata": [
+biodata: [
    "name": "Akmal Oktavian",
    "status": "student",
    "birth": "23/10/2006",
    "address": "Indonesian - Yogyakarta"
   ],
-  "sosmed": [
+  sosmed: [
    "instagram": "https://instagram.com/akmall.xx",
    "whatsapp": "https://wa.me/628885960825",
    "telegram": "https://t.me/akmall403"
 ],
-"support": [
+support: [
    "dana": "0888-5960-825",
    "gopay": "0888-5960-825",
    "smartfren": "0888-5960-825",
