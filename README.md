@@ -30,7 +30,7 @@
 <h2 align="center">About Me</h2>
 
 ```json
-# yahaha hayu
+# yahaha whyu
 
 "biodata": [
    "name": "Akmal Oktavian",
