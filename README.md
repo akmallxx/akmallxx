@@ -28,19 +28,20 @@
 ```json
 [
   "biodata": {
-      "name": "Akmal Oktavian",
-      "birth": "23/10/2006"
+     "name": "Akmal Oktavian",
+     "birth": "23/10/2006"
   },
   "sosmed": {
-      "instagram": "https://instagram/akmall.xx",
-      "whatsapp": "https://wa.me/628885960825"
+     "instagram": "https://instagram.com/akmall.xx",
+     "whatsapp": "https://wa.me/628885960825",
+     "telegram": "https://t.me/akmall403"
   },
   "support": {
-      "dana": "0888-5960-825",
-      "gopay": "0888-5960-825",
-      "smartfren": "0888-5960-825",
-      "telkomsel": "0813-2663-5396",
-      "tri": "0896-1267-8167"
+     "dana": "0888-5960-825",
+     "gopay": "0888-5960-825",
+     "smartfren": "0888-5960-825",
+     "telkomsel": "0813-2663-5396",
+     "tri": "0896-1267-8167"
   },
 ]
 ```
