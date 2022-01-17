@@ -1,4 +1,4 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">My Information</h1>
 
 <img align="center" height="auto" src="https://github.com/akmall-236.png?size=5000"/>
 <!-- ![mrfzvx12](https://github.com/mrfzvx12.png?size=5000) -->
@@ -27,6 +27,7 @@
 
 ---
 
+<h2 align="center">About Me</h2>
 ```json
 [
   "biodata": {
@@ -50,7 +51,7 @@
 ]
 ```
 
-## &#x1F919; Special Thanks To
+<h2 align="center">Special Thanks To</h2>
 
 <a href="https://github.com/ravel-iska"><img alt="GitHub" src="https://img.shields.io/badge/ravel-iska%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://github.com/BryanRfly"><img alt="GitHub" src="https://img.shields.io/badge/BryanRfly%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
