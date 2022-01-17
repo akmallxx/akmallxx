@@ -21,6 +21,8 @@
 <img alt="Age" src="https://img.shields.io/badge/Age-15-blue.svg" />
 </div>
 
+---
+
 > **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/Akmallxx?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
 
 ---
