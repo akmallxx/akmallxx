@@ -29,7 +29,7 @@
 
 <h2 align="center">About Me</h2>
 
-```js
+```json
 biodata: [
    "name": "Akmal Oktavian",
    "status": "student",
