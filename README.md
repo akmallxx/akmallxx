@@ -29,7 +29,9 @@
 [
   "biodata": {
      "name": "Akmal Oktavian",
-     "birth": "23/10/2006"
+     "status": "student",
+     "birth": "23/10/2006",
+     "address": "Indonesian - Yogyakarta"
   },
   "sosmed": {
      "instagram": "https://instagram.com/akmall.xx",
