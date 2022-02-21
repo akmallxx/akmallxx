@@ -39,9 +39,9 @@
    "address": "Indonesian - Yogyakarta"
 ],
 "sosmed": [
-   "instagram": "https://instagram.com/akmall.xx",
-   "whatsapp": "https://wa.me/628885960825",
-   "telegram": "https://t.me/akmall403"
+   "instagram": "https://Instagram.com/akmalz.xyz/",
+   "whatsapp": "https://wa.me/628885960825/",
+   "telegram": "https://t.me/akmall403/"
 ],
 "support": [
    "dana": "0888-5960-825",
