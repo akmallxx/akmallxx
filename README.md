@@ -20,6 +20,15 @@
 <a href="https://wa.me/qr/MJ5QGFNI7ATVG1" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/akmall.xx" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <br>
+  
+<h2 align="center">Special Thanks To</h2>
+
+<a href="https://github.com/ramlan404"><img alt="GitHub" src="https://img.shields.io/badge/ramlan404%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Arga2108"><img alt="GitHub" src="https://img.shields.io/badge/Arga2108%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ravel-iska"><img alt="GitHub" src="https://img.shields.io/badge/ravel-iska%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/BryanRfly"><img alt="GitHub" src="https://img.shields.io/badge/BryanRfly%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ItsmeikyXSec404"><img alt="GitHub" src="https://img.shields.io/badge/itsmeikyxsec404%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/rizkiramadhan4617"><img alt="GitHub" src="https://img.shields.io/badge/rizkiramadhan4617%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <!--
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg url=https%3A%2F%2Fgithub.com%2FAkmallxx&count_bg=green&title_bg=%23555555&icon=probot.svg&icon_color=white&title=Visitor&edge_flat=false"/></a>
     <img alt="Age" src="https://img.shields.io/badge/Age-15-blue.svg"/>
@@ -56,19 +65,6 @@
    "tri": "0896-1267-8167"
 ]
 ```
-
-<h2 align="center">Special Thanks To</h2>
-
-<a href="https://github.com/ramlan404"><img alt="GitHub" src="https://img.shields.io/badge/ramlan404%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/Arga2108"><img alt="GitHub" src="https://img.shields.io/badge/Arga2108%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/ravel-iska"><img alt="GitHub" src="https://img.shields.io/badge/ravel-iska%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/BryanRfly"><img alt="GitHub" src="https://img.shields.io/badge/BryanRfly%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/ItsmeikyXSec404"><img alt="GitHub" src="https://img.shields.io/badge/itsmeikyxsec404%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/rizkiramadhan4617"><img alt="GitHub" src="https://img.shields.io/badge/rizkiramadhan4617%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-
-<!--
-<h2 align="center">My Stats</h2>
--->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
