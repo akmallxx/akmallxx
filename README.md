@@ -39,7 +39,7 @@
    "address": "Indonesian - Yogyakarta"
 ],
 "sosmed": [
-   "instagram": "https://Instagram.com/akmalz.xyz/",
+   "instagram": "https://Instagram.com/akmall.kz/",
    "whatsapp": "https://wa.me/628885960825/",
    "telegram": "https://t.me/akmall403/"
 ],
