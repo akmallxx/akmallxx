@@ -53,8 +53,7 @@
 ],
 "sosmed": [
    "instagram": "https://Instagram.com/akmall.kz/",
-   "whatsapp": "https://wa.me/628885960825/",
-   "telegram": "https://t.me/akmall403/"
+   "whatsapp": "https://wa.me/628885960825/"
 ]
 ```
 
