@@ -1,8 +1,5 @@
 <h1 align="center">My Information</h1>
 
-<img align="center" height="auto" src="https://github.com/akmall-236.png?size=5000"/>
-<!-- ![mrfzvx12](https://github.com/mrfzvx12.png?size=5000) -->
-
 <div align="center">
 
 > _Hi :wave:, my real name is Akmal Oktavian<br>nice to meet you_ ~
