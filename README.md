@@ -44,7 +44,7 @@
    "birth": "23/10/2006",
    "address": "Indonesian - Yogyakarta"
 ],
-"sosmed": [
+"social_media": [
    "instagram": "https://Instagram.com/akmall.kz/",
    "whatsapp": "https://wa.me/628885960825/"
 ]
