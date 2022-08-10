@@ -1,4 +1,4 @@
-<h1 align="center">My Information</h1>
+<h1 align="center">About Me</h1>
 
 <div align="center">
 
@@ -36,8 +36,6 @@
 > **My status** <details><summary>Click Here</summary><img src="https://metrics.lecoq.io/akmallxx?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndonesian"></details>
 
 ---
-
-<h2 align="center">About Me</h2>
 
 ```json
 # Okoklah
