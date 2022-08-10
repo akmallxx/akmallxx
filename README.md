@@ -7,13 +7,11 @@
 </div>
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Student.;Love+anything.;Still learning programming.;Thank+you~" alt="Akmalz">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Student.;Love+anything.;Still+learning+programming.;Thank+you~" alt="Akmalz">
 </p>
 
 <div align="center">
-  
-[`My Official Web`](https://akmalz.rf.gd/)
-<br>
+ 
 <a href="https://wa.me/qr/MJ5QGFNI7ATVG1" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/akmall.kz" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <br>
