@@ -55,7 +55,3 @@
    "instagram": "https://Instagram.com/akmall.kz/",
    "whatsapp": "https://wa.me/628885960825/"
 ]
-```
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
