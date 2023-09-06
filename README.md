@@ -1,29 +1,20 @@
+<h1 align-text="center">Kontchol</h1>
+
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Student.;Love+anything.;Still+learning.;" alt="Akmalz">
 </p>
 
 <div align="center">
- <!--
 <a href="http://www.instagram.com/akmall.kz" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <br>
--->
   
-<h2 align="center">All My Friends</h2>
+<h2 align-text="center">All My Friends</h2>
 
-<a href="https://github.com/ramlan404"> <img alt="GitHub" src="https://img.shields.io/badge/ramlan%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/Arugaz"><img alt="GitHub" src="https://img.shields.io/badge/Arga%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/ravel-iska"><img alt="GitHub" src="https://img.shields.io/badge/bagus%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/BryanRfly"><img alt="GitHub" src="https://img.shields.io/badge/Bryan%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/rizkiramadhan4617">
-<img alt="GitHub" src="https://img.shields.io/badge/rizki-ramadhan%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ramlan404"> <img alt="GitHub" src="https://img.shields.io/badge/ramlan%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Arugaz"><img alt="GitHub" src="https://img.shields.io/badge/Arga%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ravel-iska"><img alt="GitHub" src="https://img.shields.io/badge/bagus%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/BryanRfly"><img alt="GitHub" src="https://img.shields.io/badge/Bryan%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/rizkiramadhan4617"><img alt="GitHub" src="https://img.shields.io/badge/rizki-ramadhan%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <!--
