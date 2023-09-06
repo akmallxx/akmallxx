@@ -1,5 +1,3 @@
-<h1 align="center">About Me</h1>
-
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Student.;Love+anything.;Still+learning.;" alt="Akmalz">
 </p>
