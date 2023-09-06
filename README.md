@@ -2,7 +2,7 @@
 <h1 align-items="center">Kontchol</h1>
 
 <p>
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Student.;Love+anything.;Still+learning.;" alt="Akmalz">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Ambitionless.;Love+anything.;" alt="Akmalz">
 </p>
 
 <a href="http://www.instagram.com/akmall.kz" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
