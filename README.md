@@ -7,6 +7,8 @@
 
 <a href="http://www.instagram.com/akmall.kz" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmallxx&show_icons=true&locale=en" alt="eksa-arifa" /></p>
+<br>
   
 <h2>All My Friends</h2>
 
