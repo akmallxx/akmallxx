@@ -55,6 +55,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: 8tmo4irxy9tb65e2ho4ahpha0
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
