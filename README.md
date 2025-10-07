@@ -7,9 +7,9 @@
 ```rust
 Total Time: 54 hrs 58 mins
 
-JavaScript       36 hrs 33 mins  #################--------   66.28 %
-TypeScript       4 hrs 45 mins   ##-----------------------   08.63 %
-PHP              2 hrs 58 mins   #------------------------   05.39 %
+JavaScript       36 hrs 33 mins  #################--------   66.20 %
+TypeScript       4 hrs 45 mins   ##-----------------------   08.62 %
+PHP              2 hrs 58 mins   #------------------------   05.38 %
 Bash             1 hr 27 mins    #------------------------   02.65 %
 ```
 
